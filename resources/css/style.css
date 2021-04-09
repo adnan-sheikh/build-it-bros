@@ -266,6 +266,7 @@ main {
 .client {
     background-color: var(--secondaryColor);
     color: white;
+    border-radius: 0.5rem 0.5rem 0 0;
 }
 
 .client p {
