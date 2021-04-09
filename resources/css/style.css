@@ -461,5 +461,17 @@ footer a:hover, footer a:active {
     #services > div {
         width: 250px;
     }
+    
+    footer address {
+        font-size: 1.5rem;
+    }
+    
+    .client h3 {
+        font-size: 2rem;
+    }
+    
+    .client p {
+        font-size: 1.5rem;
+    }
 
 }
